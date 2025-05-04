@@ -1,0 +1,80 @@
+{
+  "matches": [
+    {
+      "opponents": [
+        { "opponent": { "name": "FURIA", "acronym": "FUR" } },
+        { "opponent": { "name": "Team Liquid", "acronym": "TL" } }
+      ],
+      "scheduled_at": "2025-05-04T19:00:00Z",
+      "winner": { "name": "FURIA" },
+      "results": [
+        { "team": { "name": "FURIA" }, "score": 2 },
+        { "team": { "name": "Team Liquid" }, "score": 1 }
+      ],
+      "number_of_games": 3,
+      "status": "finished",
+      "match_stats": {
+        "total_kills": {
+          "FURIA": 87,
+          "Team Liquid": 75
+        },
+        "most_kills_player": {
+          "name": "KSCERATO",
+          "kills": 29
+        },
+        "map_scores": [
+          { "map": "Mirage", "FURIA": 16, "Team Liquid": 12 },
+          { "map": "Inferno", "FURIA": 10, "Team Liquid": 16 },
+          { "map": "Nuke", "FURIA": 16, "Team Liquid": 13 }
+        ]
+      }
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "FURIA",
+      "acronym": "FUR",
+      "slug": "furia",
+      "ranking": 9
+    }
+  ],
+  "players": [
+    { "name": "KSCERATO" },
+    { "name": "yuurih" },
+    { "name": "arT" },
+    { "name": "chelo" },
+    { "name": "drop" }
+  ],
+  "tournaments": [
+    { "name": "IEM Dallas 2025" }
+  ],
+  "results": [
+    {
+      "opponents": [
+        { "opponent": { "name": "FURIA", "acronym": "FUR" } },
+        { "opponent": { "name": "Team Liquid", "acronym": "TL" } }
+      ],
+      "winner": { "name": "FURIA" },
+      "results": [
+        { "team": { "name": "FURIA" }, "score": 2 },
+        { "team": { "name": "Team Liquid" }, "score": 1 }
+      ],
+      "match_stats": {
+        "total_kills": {
+          "FURIA": 87,
+          "Team Liquid": 75
+        },
+        "most_kills_player": {
+          "name": "KSCERATO",
+          "kills": 29
+        },
+        "map_scores": [
+          { "map": "Mirage", "FURIA": 16, "Team Liquid": 12 },
+          { "map": "Inferno", "FURIA": 10, "Team Liquid": 16 },
+          { "map": "Nuke", "FURIA": 16, "Team Liquid": 13 }
+        ]
+      }
+    }
+  ]
+}
