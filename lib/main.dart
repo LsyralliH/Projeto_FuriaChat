@@ -5,7 +5,8 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/services.dart'; 
 
-const apiKey = 'ER1SZvKL0zjz2d1fXwtbBwAHYMNL3GWsYxEZu7mqy2eVggtoMVo';
+// Substitua 'INSIRA_SUA_CHAVE_AQUI' pela chave real de API, mas nunca expõe esta chave no código!
+const apiKey = 'INSIRA_SUA_CHAVE_AQUI';
 bool useMock = true;
 
 Future<Map<String, dynamic>> loadMockJson() async {
